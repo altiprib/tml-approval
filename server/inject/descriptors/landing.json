@@ -24,8 +24,8 @@
     },
     "isoption": {
       "type": "identifier",
-      "selector": ".hide-icon-block",
-      "control": "action.link"
+      "selector": "#node-options-label",
+      "control": "exists"
     }
   },
   "connect": [
