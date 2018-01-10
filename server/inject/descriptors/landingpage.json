@@ -4,7 +4,7 @@
     "islanding": {
       "type": "identifier",
       "control": "exists",
-      "selector": "body > div.lm-height-full.busy > lm-page > div:nth-child(4)",
+      "selector": "lm-page > div:nth-child(4)",
       "selectContains": "homepage"
     }
   },
