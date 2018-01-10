@@ -3,7 +3,7 @@
   "properties": {
     "islanding": {
       "type": "identifier",
-      "selector": "htm",
+      "selector": "html",
       "control": "url c615b0ac-3904-4028-b13e-15b2ee5cd829"
     }
   },
