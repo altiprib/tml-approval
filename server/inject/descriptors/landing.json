@@ -15,7 +15,9 @@
   },
   "connect": [
     {
-      "match": [],
+      "match": [
+        "islanding"
+      ],
       "action": "openMenu"
     }
   ]
