@@ -9,7 +9,7 @@
     },
     "clickhambager": {
       "type": "action",
-      "selector": "#icon-grid",
+      "selector": ".displayBlock.m-menu-btn.ng-scope",
       "control": "action.link"
     }
   },
