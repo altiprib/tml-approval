@@ -14,7 +14,9 @@
     },
     "clicksn1t": {
       "type": "action",
-      "control": "action.link"
+      "control": "action.link",
+      "selector": ".hide-icon-block",
+      "selectContains": "SN1T"
     },
     "ismenuopen": {
       "type": "identifier",
