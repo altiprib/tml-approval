@@ -4,7 +4,7 @@
     "option": {
       "type": "action",
       "selector": "#node-option-label",
-      "control": "action.link"
+      "control": "action.button"
     }
   },
   "connect": []
