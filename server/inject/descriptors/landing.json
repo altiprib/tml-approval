@@ -14,8 +14,8 @@
     },
     "clicksn1t": {
       "type": "action",
-      "selector": ".displayBlock.m-menu-btn.ng-scope",
-      "control": "action.button"
+      "selector": ".hide-icon-block",
+      "control": "action.link"
     }
   },
   "connect": [
