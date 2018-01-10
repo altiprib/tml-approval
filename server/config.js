@@ -1,7 +1,7 @@
 'use strict';
 module.exports = {
     // Start URL that browsing should start at.
-    startURL: 'https://mingle1t.flextronics.com/infor/c615b0ac-3904-4028-b13e-15b2ee5cd829?favoriteContext=c2N2MnsiZGVzY3JpcHRpb24iOiJDaGFuZ2UgQ29tcGFueSh0dGRzazIwMDdtMDAwKSAqIFNOMVRBUFAyOjA5OTkgKiBbYWx0aXByaWJAc2FjdmwzOTMsIDEwNTAwMDBwXSIsImFwcGxpY2F0aW9uIjoiZXJwIiwidHlwZSI6InNlc3Npb24iLCJhY3Rpb24iOiJ0dGRzazIwMDdtMDAwIiwicGF0aCI6bnVsbCwiYXJndW1lbnQiOm51bGx9&LogicalId=lid://infor.ln.2',
+    startURL: 'https://mingle1t.flextronics.com/infor/',
     // Start Method when there is no start URL.  This is fpr when we are doing an API integration,
     // and we don't actually need to load phantom (yet).
     // startMethod: "login.onStart",
