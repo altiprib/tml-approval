@@ -10,7 +10,7 @@
     "openMenu": {
       "type": "action",
       "selector": "#icon-grid",
-      "control": "action.link"
+      "control": "action.button"
     }
   },
   "connect": [
