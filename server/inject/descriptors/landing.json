@@ -16,6 +16,11 @@
       "type": "action",
       "selector": "body",
       "control": "action.link"
+    },
+    "ismenuopen": {
+      "type": "identifier",
+      "selector": "body",
+      "control": "property.innerText"
     }
   },
   "connect": [
