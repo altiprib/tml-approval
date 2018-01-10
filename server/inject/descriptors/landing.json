@@ -15,12 +15,6 @@
   },
   "connect": [
     {
-      "match": [
-        "islanding"
-      ],
-      "action": "openMenu"
-    },
-    {
       "match": [],
       "action": "openMenu"
     }
