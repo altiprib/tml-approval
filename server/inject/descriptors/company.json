@@ -3,7 +3,6 @@
   "properties": {
     "companylist": {
       "type": "array",
-      "selectorAll": "body",
       "items": {
         "type": "object",
         "properties": {
