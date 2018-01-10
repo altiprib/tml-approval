@@ -14,7 +14,7 @@
     },
     "clicksn1t": {
       "type": "action",
-      "selector": ".hide-icon-block",
+      "selector": "body",
       "control": "action.link"
     }
   },
