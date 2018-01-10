@@ -6,6 +6,9 @@
       "selector": "#node-option-label",
       "control": "action.link",
       "selectContains": "Options"
+    },
+    "islanding": {
+      "type": "string"
     }
   },
   "connect": []
