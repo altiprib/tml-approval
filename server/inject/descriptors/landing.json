@@ -30,6 +30,10 @@
         "islanding"
       ],
       "action": "openMenu"
+    },
+    {
+      "match": [],
+      "action": "clicksn1t"
     }
   ]
 }
