@@ -1,5 +1,9 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "ismenu": {
+      "type": "identifier"
+    }
+  },
   "connect": []
 }
