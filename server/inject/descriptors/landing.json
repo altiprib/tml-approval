@@ -20,7 +20,8 @@
     "clicksn1t": {
       "type": "action",
       "selector": ".hide-icon-block",
-      "control": "action.link"
+      "control": "action.link",
+      "selectContains": "SN1T"
     }
   },
   "connect": [
