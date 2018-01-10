@@ -29,14 +29,16 @@
       "match": [
         "islanding"
       ],
-      "action": "openMenu"
+      "action": "openMenu",
+      "model": "landing"
     },
     {
       "match": [
         "islanding",
         "ismenuopen"
       ],
-      "action": "clicksn1t"
+      "action": "clicksn1t",
+      "model": "landing"
     }
   ]
 }
