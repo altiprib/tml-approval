@@ -6,6 +6,9 @@
       "selector": ".app-name.block.ng-binding",
       "control": "exists",
       "selectContains": "Homepages"
+    },
+    "openMenu": {
+      "type": "action"
     }
   },
   "connect": []
