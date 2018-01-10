@@ -4,8 +4,7 @@
     "ismenu": {
       "type": "identifier",
       "selector": ".SessionHistoryPanel",
-      "control": "exists",
-      "selectIndex": 2
+      "control": "exists"
     }
   },
   "connect": []
