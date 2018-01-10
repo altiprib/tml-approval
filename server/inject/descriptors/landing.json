@@ -10,7 +10,7 @@
     "clickhambager": {
       "type": "action",
       "selector": "#icon-grid",
-      "control": "action.button"
+      "control": "action.link"
     }
   },
   "connect": [
