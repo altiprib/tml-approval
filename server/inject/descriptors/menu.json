@@ -3,7 +3,7 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "# session-history-panel-item-0",
+      "selector": "#session-history-panel-item-0",
       "control": "exists"
     }
   },
