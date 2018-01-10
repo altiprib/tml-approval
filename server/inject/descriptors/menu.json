@@ -3,8 +3,8 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "html",
-      "control": "c615b0ac-3904-4028-b13e-15b2ee5cd829"
+      "selector": ".SessionHistoryPanel",
+      "control": "exists"
     }
   },
   "connect": []
