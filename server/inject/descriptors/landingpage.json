@@ -9,8 +9,8 @@
     },
     "islanding": {
       "type": "identifier",
-      "selector": "#node-option-label",
-      "selectContains": "Options",
+      "selector": ".lable",
+      "selectContains": "Infor LN",
       "control": "exists"
     }
   },
