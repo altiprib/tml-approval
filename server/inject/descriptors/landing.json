@@ -19,8 +19,8 @@
     },
     "ismenuopen": {
       "type": "identifier",
-      "selector": "body",
-      "control": "property.innerText"
+      "selector": ".icon-block-wrapper",
+      "control": "exists"
     }
   },
   "connect": [
