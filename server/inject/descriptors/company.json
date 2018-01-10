@@ -1,24 +1,5 @@
 {
   "type": "object",
-  "properties": {
-    "companylist": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "string",
-            "selector": "body",
-            "control": "property.innerText"
-          },
-          "description": {
-            "type": "string",
-            "selector": "body",
-            "control": "property.innerText"
-          }
-        }
-      }
-    }
-  },
+  "properties": {},
   "connect": []
 }
