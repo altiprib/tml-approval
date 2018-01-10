@@ -8,7 +8,7 @@
       "selectContains": "Options"
     },
     "islanding": {
-      "type": "string"
+      "type": "identifier"
     }
   },
   "connect": []
