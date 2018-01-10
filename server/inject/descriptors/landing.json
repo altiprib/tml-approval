@@ -16,6 +16,11 @@
       "type": "identifier",
       "selector": ".icon-block-wrapper",
       "control": "exists"
+    },
+    "clicksn1t": {
+      "type": "action",
+      "selector": ".hide-icon-block",
+      "control": "action.link"
     }
   },
   "connect": [
