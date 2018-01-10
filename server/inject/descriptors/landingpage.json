@@ -4,7 +4,7 @@
     "islanding": {
       "type": "identifier",
       "control": "exists",
-      "selector": "#app-name block ng-binding",
+      "selector": "title",
       "selectContains": "Homepages"
     }
   },
