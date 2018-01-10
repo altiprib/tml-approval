@@ -19,8 +19,9 @@
     },
     "clicksn1t": {
       "type": "action",
-      "selector": "[img=webresource/get/ce35b113-f14d-41b5-9189-dabc71f0c8ad?cache=27598869]",
-      "control": "action.link"
+      "selector": ".hide-icon-block",
+      "control": "action.link",
+      "selectContains": "SN1T"
     }
   },
   "connect": [
