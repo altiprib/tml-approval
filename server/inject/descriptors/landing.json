@@ -19,7 +19,7 @@
     },
     "clicksn1t": {
       "type": "action",
-      "selector": "multiline-ellipsis-cntnr ng-binding",
+      "selector": ".multiline-ellipsis-cntnr ng-binding",
       "control": "action.link",
       "selectContains": "SN1T"
     }
