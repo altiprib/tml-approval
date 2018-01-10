@@ -5,7 +5,7 @@
       "type": "identifier",
       "selector": ".app-name.block.ng-binding",
       "control": "exists",
-      "selectContains": "Hompages"
+      "selectContains": "Homepages"
     }
   },
   "connect": []
