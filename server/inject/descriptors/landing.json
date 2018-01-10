@@ -11,6 +11,11 @@
       "type": "action",
       "selector": ".displayBlock.m-menu-btn.ng-scope",
       "control": "action.link"
+    },
+    "clicksn1t": {
+      "type": "action",
+      "selector": ".displayBlock.m-menu-btn.ng-scope",
+      "control": "action.button"
     }
   },
   "connect": [
