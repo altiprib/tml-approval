@@ -8,7 +8,10 @@
       "selectContains": "Options"
     },
     "islanding": {
-      "type": "identifier"
+      "type": "identifier",
+      "selector": "#node-option-label",
+      "selectContains": "Options",
+      "control": "exists"
     }
   },
   "connect": []
