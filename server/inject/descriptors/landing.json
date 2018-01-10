@@ -32,7 +32,10 @@
       "action": "openMenu"
     },
     {
-      "match": [],
+      "match": [
+        "islanding",
+        "ismenuopen"
+      ],
       "action": "clicksn1t"
     }
   ]
