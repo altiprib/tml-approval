@@ -8,7 +8,9 @@
       "selectContains": "Homepages"
     },
     "openMenu": {
-      "type": "action"
+      "type": "action",
+      "selector": "#icon-grid",
+      "control": "action.link"
     }
   },
   "connect": []
