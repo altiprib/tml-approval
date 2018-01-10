@@ -4,7 +4,8 @@
     "islanding": {
       "type": "identifier",
       "selector": "html",
-      "selectContains": "homepage"
+      "selectContains": "homepage",
+      "control": "url "
     }
   },
   "connect": []
