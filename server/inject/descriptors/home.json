@@ -3,9 +3,8 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "frameSelector": ".m-app-frame",
       "control": "exists",
-      "selector": "div#node-options"
+      "selector": "iframe.m-app-frame div#node-options"
     },
     "expandoptions": {
       "type": "action",
