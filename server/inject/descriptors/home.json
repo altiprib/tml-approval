@@ -2,8 +2,7 @@
   "type": "object",
   "properties": {
     "ishome": {
-      "type": "identifier",
-      "control": "exists"
+      "type": "identifier"
     },
     "expandoptions": {
       "type": "action",
