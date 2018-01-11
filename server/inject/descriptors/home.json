@@ -4,7 +4,9 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "frameSelector": ".m-app-frame"
+      "frameSelector": ".m-app-frame",
+      "selectContains": "Synergy Applications",
+      "selector": "#node-msycom00000000-label"
     },
     "expandoptions": {
       "type": "action",
