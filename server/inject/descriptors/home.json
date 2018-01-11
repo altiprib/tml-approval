@@ -9,7 +9,8 @@
     "clickoptions": {
       "type": "action",
       "control": "action.link",
-      "selectContains": "Options"
+      "selectContains": "Options",
+      "selector": ".TreeItem Folder"
     }
   },
   "connect": []
