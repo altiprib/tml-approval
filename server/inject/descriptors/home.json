@@ -5,7 +5,7 @@
       "type": "identifier",
       "control": "exists",
       "frameSelector": ".m-app-frame",
-      "selector": ".SideApplicationNavScroll"
+      "selector": "[name=\"LN_c615b0ac-3904-4028-b13e-15b2ee5cd829\"]"
     },
     "expandoptions": {
       "type": "action",
