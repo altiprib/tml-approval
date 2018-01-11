@@ -16,18 +16,18 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "login",
-      "name": "login",
-      "sourceScreenId": "app.login.logincool",
-      "sourceAppId": "universaltemplates",
-      "model": "login"
-    },
-    {
       "id": "company",
       "name": "company",
       "sourceScreenId": "app.confirmation.confirmationcool",
       "sourceAppId": "universaltemplates",
       "model": "company"
+    },
+    {
+      "id": "login",
+      "name": "login",
+      "sourceScreenId": "app.login.logincool",
+      "sourceAppId": "universaltemplates",
+      "model": "login"
     }
   ],
   "sourceAppId": "_blank",
