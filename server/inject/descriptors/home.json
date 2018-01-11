@@ -7,5 +7,6 @@
       "selector": ".m-app-frame,#node-options-label"
     }
   },
-  "connect": []
+  "connect": [],
+  "frameSelector": "m-app-frame"
 }
