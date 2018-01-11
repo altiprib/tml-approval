@@ -4,8 +4,7 @@
     "ismenu": {
       "type": "identifier",
       "selector": "[id= -session-0-session-history-label]",
-      "control": "exists",
-      "selectContains": "Recently Used"
+      "control": "exists"
     }
   },
   "connect": []
