@@ -4,6 +4,13 @@
   "startScreen": null,
   "screens": [
     {
+      "id": "company",
+      "name": "company",
+      "sourceScreenId": "app.confirmation.confirmationcool",
+      "sourceAppId": "universaltemplates",
+      "model": "company"
+    },
+    {
       "id": "menu",
       "name": "menu",
       "sourceAppId": "_blank",
@@ -14,13 +21,6 @@
       "name": "multiselect",
       "sourceAppId": "_blank",
       "sourceScreenId": "app.multiselect"
-    },
-    {
-      "id": "company",
-      "name": "company",
-      "sourceScreenId": "app.confirmation.confirmationcool",
-      "sourceAppId": "universaltemplates",
-      "model": "company"
     },
     {
       "id": "login",
