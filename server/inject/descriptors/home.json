@@ -9,7 +9,8 @@
     "isHome": {
       "type": "identifier",
       "control": "exists",
-      "selector": ".SideApplicationNav"
+      "selector": ".SideApplicationNav",
+      "frameSelector": ".m-app-frame"
     }
   },
   "connect": []
