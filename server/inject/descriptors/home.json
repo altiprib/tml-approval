@@ -8,7 +8,6 @@
     },
     "clickoptions": {
       "type": "action",
-      "selector": ".node-options-image",
       "control": "action.link",
       "selectContains": "Options"
     }
