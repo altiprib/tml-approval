@@ -1,8 +1,34 @@
 {
   "headlineText": "Select Company",
   "detailText": "Lorem Ipsum delor, details on your transaction go here.",
-  "company": [ 
-        {"id":"2013", "desc":"Zala"},
-        {"id":"2034", "desc":"Alt"}
-    ]   
+  "companies": [
+    {
+      "id": "2013",
+      "desc": "Zala"
+    },
+    {
+      "id": "2034",
+      "desc": "Alt"
+    }
+  ],
+  "company": {
+    "options": [
+      {
+        "label": "Company1",
+        "value": "c1"
+      },
+      {
+        "label": "Company2",
+        "value": "c2"
+      },
+      {
+        "label": "Company3",
+        "value": "c3"
+      }
+    ],
+    "selected": {
+      "label": "Company1",
+      "value": "c1"
+    }
+  }
 }
