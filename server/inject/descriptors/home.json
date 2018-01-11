@@ -9,7 +9,7 @@
     "isHome": {
       "type": "identifier",
       "control": "exists",
-      "selector": ".m-app-frame"
+      "frameSelector": ".m-app-frame"
     }
   },
   "connect": []
