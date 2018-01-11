@@ -7,8 +7,7 @@
       "selector": ".m-app-frame,#node-options-label"
     },
     "isHome": {
-      "type": "string",
-      "selector": "#node-msycom00000000-label",
+      "type": "identifier",
       "control": "exists"
     }
   },
