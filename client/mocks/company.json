@@ -1,7 +1,7 @@
 {
   "headlineText": "Select Company",
   "detailText": "Lorem Ipsum delor, details on your transaction go here.",
-  "companies": [ 
+  "company": [ 
         {"id":"2013", "desc":"Zala"},
         {"id":"2034", "desc":"Alt"}
     ]   
