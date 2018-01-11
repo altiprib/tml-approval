@@ -9,7 +9,7 @@
     "isHome": {
       "type": "identifier",
       "control": "exists",
-      "frameSelector": ".m-app-frame",
+      "frameSelector": "#body > div > div:nth-child(3) > div.m-sh-contr > div:nth-child(2) > div > div > div.m-infor-app-holder.ng-binding.maximized > iframe",
       "selector": "body > div:nth-child(4) > div:nth-child(2) > div > div:nth-child(3) > div > div:nth-child(2) > div > div > div.SideApplicationNavScroll"
     }
   },
