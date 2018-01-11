@@ -5,6 +5,9 @@
       "type": "identifier",
       "control": "exists",
       "selector": "body"
+    },
+    "clickoptions": {
+      "type": "string"
     }
   },
   "connect": []
