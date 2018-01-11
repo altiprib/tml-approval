@@ -3,8 +3,7 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "control": "exists",
-      "selector": "#navigation_webpart"
+      "control": "exists"
     },
     "expandoptions": {
       "type": "action",
