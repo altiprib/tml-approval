@@ -5,6 +5,10 @@
       "type": "action",
       "control": "action.link",
       "selector": ".m-app-frame,#node-options-label"
+    },
+    "isHome": {
+      "type": "string",
+      "selector": "#node-msycom00000000-label"
     }
   },
   "connect": [],
