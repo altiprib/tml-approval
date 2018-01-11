@@ -7,7 +7,8 @@
       "selector": "body"
     },
     "expandoptions": {
-      "type": "string"
+      "type": "string",
+      "selector": ".TreeItem Folder"
     }
   },
   "connect": []
