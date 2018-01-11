@@ -13,5 +13,5 @@
     }
   },
   "connect": [],
-  "frameSelector": "m-app-frame"
+  "frameSelector": ".m-app-frame"
 }
