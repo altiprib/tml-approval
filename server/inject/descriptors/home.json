@@ -8,7 +8,7 @@
     },
     "clickoptions": {
       "type": "action",
-      "selector": "#node-options",
+      "selector": ".node-options-image",
       "control": "action.link",
       "selectContains": "Options"
     }
