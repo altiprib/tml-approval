@@ -21,6 +21,13 @@
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
       "model": "login"
+    },
+    {
+      "id": "company",
+      "name": "company",
+      "sourceScreenId": "app.confirmation.confirmationcool",
+      "sourceAppId": "universaltemplates",
+      "model": "company"
     }
   ],
   "sourceAppId": "_blank",

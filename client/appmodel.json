@@ -42,5 +42,19 @@
         }
       }
     }
+  },
+  "company": {
+    "type": "object",
+    "comment": "Confirmation",
+    "properties": {
+      "headlineText": {
+        "type": "string",
+        "label": "HeadlineText"
+      },
+      "detailText": {
+        "type": "string",
+        "label": "DetailText"
+      }
+    }
   }
 }
