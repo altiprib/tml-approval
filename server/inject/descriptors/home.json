@@ -4,7 +4,8 @@
     "ishome": {
       "type": "identifier",
       "frameSelector": ".m-app-frame",
-      "selector": ".m-app-frame"
+      "selector": ".m-app-frame",
+      "control": "exists"
     },
     "expandoptions": {
       "type": "action",
