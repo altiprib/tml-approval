@@ -4,7 +4,7 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "selector": "iframe.m-app-frame div#node-options"
+      "selector": ".m-app-frame"
     },
     "expandoptions": {
       "type": "action",
