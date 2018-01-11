@@ -8,7 +8,8 @@
     },
     "isHome": {
       "type": "identifier",
-      "control": "exists"
+      "control": "exists",
+      "selector": ".m-app-frame"
     }
   },
   "connect": []
