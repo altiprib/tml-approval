@@ -4,7 +4,6 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "frameSelector": "gwt-Frame",
       "selector": ".gwt-Frame"
     },
     "expandoptions": {
