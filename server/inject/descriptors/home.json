@@ -4,8 +4,8 @@
     "ishome": {
       "type": "identifier",
       "frameSelector": ".m-app-frame",
-      "selector": "div#node-options.TreeItem.Folder",
-      "control": "exists"
+      "control": "exists",
+      "selector": "div#node-options .TreeItem .Folder"
     },
     "expandoptions": {
       "type": "action",
