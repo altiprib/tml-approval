@@ -24,7 +24,8 @@
     },
     "isrecentlyused": {
       "type": "identifier",
-      "control": "exists"
+      "control": "exists",
+      "selector": "label#node-options-label"
     }
   },
   "connect": [
