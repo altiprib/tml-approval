@@ -3,7 +3,8 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "control": "exists"
+      "control": "exists",
+      "frameSelector": "gwt-Frame"
     },
     "expandoptions": {
       "type": "action",
