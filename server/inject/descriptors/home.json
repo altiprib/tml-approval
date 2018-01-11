@@ -17,7 +17,8 @@
       "match": [
         "ishome"
       ],
-      "action": "expandoptions"
+      "action": "expandoptions",
+      "model": "home"
     }
   ]
 }
