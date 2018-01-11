@@ -1,14 +1,8 @@
 {
   "id": "app",
   "name": "tmlapproval",
-  "startScreen": "app.blank",
+  "startScreen": null,
   "screens": [
-    {
-      "id": "blank",
-      "name": "BLANK",
-      "sourceAppId": "_blank",
-      "sourceScreenId": "app.blank"
-    },
     {
       "id": "menu",
       "name": "menu",
