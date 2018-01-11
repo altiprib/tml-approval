@@ -9,7 +9,7 @@
     "expandoptions": {
       "type": "action",
       "control": "action.link",
-      "selector": "div.Container.SvgIconDiv#node-options-label"
+      "selector": ".m-app-frame"
     }
   },
   "connect": []
