@@ -3,9 +3,9 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "label",
+      "selector": ".Label",
       "control": "exists",
-      "selectContains": "Recently Used"
+      "selectContains": "Infor LN"
     }
   },
   "connect": []
