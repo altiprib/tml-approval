@@ -9,7 +9,8 @@
     "clickoptions": {
       "type": "action",
       "selector": "#node-options",
-      "control": "action.link"
+      "control": "action.link",
+      "selectContains": "Options"
     }
   },
   "connect": []
