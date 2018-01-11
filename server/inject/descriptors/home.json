@@ -4,8 +4,7 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "selector": ".SideApplicationNavScroll",
-      "frameSelector": ".m-app-frame"
+      "selector": ".SideApplicationNavScroll"
     },
     "expandoptions": {
       "type": "action",
