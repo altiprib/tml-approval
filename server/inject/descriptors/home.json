@@ -8,7 +8,7 @@
     },
     "clickoptions": {
       "type": "action",
-      "control": "action.link",
+      "control": "action.button",
       "selectContains": "Options",
       "selector": ".TreeItem Folder"
     }
