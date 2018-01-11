@@ -4,7 +4,8 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "frameSelector": "#navigation_webpart"
+      "frameSelector": "#navigation_webpart",
+      "selector": "#navigation_webpart"
     },
     "expandoptions": {
       "type": "action",
