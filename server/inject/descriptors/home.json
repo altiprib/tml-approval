@@ -5,12 +5,6 @@
       "type": "identifier",
       "control": "exists",
       "selector": "body"
-    },
-    "clickoptions": {
-      "type": "action",
-      "control": "action.button",
-      "selectContains": "Options",
-      "selector": ".TreeItem Folder"
     }
   },
   "connect": []
