@@ -7,7 +7,7 @@
       "selector": "body"
     },
     "expandoptions": {
-      "type": "string",
+      "type": "action",
       "selector": ".TreeItem Folder"
     }
   },
