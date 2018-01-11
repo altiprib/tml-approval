@@ -25,7 +25,8 @@
     "isrecentlyused": {
       "type": "identifier",
       "selector": "#-session-0-session-history-label",
-      "selectContains": "Recenlty Used"
+      "selectContains": "Recenlty Used",
+      "control": "exists"
     }
   },
   "connect": [
