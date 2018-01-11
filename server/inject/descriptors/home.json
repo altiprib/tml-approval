@@ -9,7 +9,7 @@
     "expandoptions": {
       "type": "action",
       "control": "action.link",
-      "selector": ".Container #node-options-image"
+      "selector": ".Container.SvgIconDiv #node-options-image"
     }
   },
   "connect": []
