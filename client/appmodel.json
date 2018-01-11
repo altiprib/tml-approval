@@ -54,6 +54,9 @@
       "detailText": {
         "type": "string",
         "label": "DetailText"
+      },
+      "company": {
+        "type": "select"
       }
     }
   }
