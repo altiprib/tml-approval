@@ -24,7 +24,6 @@
     },
     "isrecentlyused": {
       "type": "identifier",
-      "selector": ".HomeTab",
       "control": "exists"
     }
   },
