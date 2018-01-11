@@ -12,5 +12,12 @@
       "control": "action.link"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "ishome"
+      ],
+      "action": "expandoptions"
+    }
+  ]
 }
