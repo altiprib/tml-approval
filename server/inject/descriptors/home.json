@@ -4,7 +4,8 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "selector": ".m-app-frame"
+      "frameSelector": ".m-app-frame",
+      "selector": "#node-change_company-label"
     },
     "expandoptions": {
       "type": "action",
