@@ -3,7 +3,8 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "selector": ".SessionHistoryPanel"
+      "selector": ".SessionHistoryPanel",
+      "control": "exists"
     }
   },
   "connect": []
