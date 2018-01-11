@@ -3,7 +3,7 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "control": "property.innerHTML",
+      "control": "exists",
       "selector": ".m-app-frame"
     },
     "expandoptions": {
