@@ -23,7 +23,9 @@
       "control": "action.button"
     },
     "isrecentlyused": {
-      "type": "identifier"
+      "type": "identifier",
+      "selector": "#-session-0-session-history-label",
+      "selectContains": "Recenlty Used"
     }
   },
   "connect": [
