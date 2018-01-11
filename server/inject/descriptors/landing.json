@@ -21,6 +21,9 @@
       "type": "action",
       "selector": "[title=\"SN1T\"]",
       "control": "action.button"
+    },
+    "isrecentlyused": {
+      "type": "identifier"
     }
   },
   "connect": [
