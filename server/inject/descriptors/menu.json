@@ -3,7 +3,7 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "-Label",
+      "selector": ".Label",
       "control": "exists",
       "selectContains": "Infor LN"
     }
