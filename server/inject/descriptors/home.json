@@ -12,6 +12,5 @@
       "selector": ".SideApplicationNav"
     }
   },
-  "connect": [],
-  "frameSelector": "div.m-infor-app-holder.ng-binding.maximized > iframe"
+  "connect": []
 }
