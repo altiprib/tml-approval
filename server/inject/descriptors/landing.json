@@ -25,7 +25,7 @@
     "isrecentlyused": {
       "type": "identifier",
       "control": "exists",
-      "selector": "label#node-options-label"
+      "selector": "div#node-options"
     }
   },
   "connect": [
