@@ -9,7 +9,6 @@
     "isHome": {
       "type": "identifier",
       "control": "exists",
-      "frameSelector": ".m-app-frame",
       "selector": ".m-app-frame"
     }
   },
