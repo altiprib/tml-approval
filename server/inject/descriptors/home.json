@@ -4,7 +4,7 @@
     "ishome": {
       "type": "identifier",
       "control": "exists",
-      "selector": ".gwt-Frame",
+      "selector": ".SessionHistoryPanel",
       "frameSelector": ".gwt-Frame"
     },
     "expandoptions": {
