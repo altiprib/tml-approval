@@ -16,12 +16,6 @@
       "sourceScreenId": "app.multiselect"
     },
     {
-      "id": "company",
-      "name": "company",
-      "sourceScreenId": "app.blank",
-      "sourceAppId": "_blank"
-    },
-    {
       "id": "login",
       "name": "login",
       "sourceScreenId": "app.login.logincool",
