@@ -3,7 +3,6 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "selector": "#-session-0-session-history-label",
       "control": "exists"
     }
   },
