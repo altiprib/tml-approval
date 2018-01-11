@@ -11,13 +11,5 @@
       "control": "action.link"
     }
   },
-  "connect": [
-    {
-      "match": [
-        "ishome"
-      ],
-      "action": "expandoptions",
-      "model": "home"
-    }
-  ]
+  "connect": []
 }
