@@ -21,11 +21,6 @@
       "type": "action",
       "selector": "[title=\"SN1T\"]",
       "control": "action.button"
-    },
-    "isrecentlyused": {
-      "type": "identifier",
-      "control": "exists",
-      "selector": "div#node-options"
     }
   },
   "connect": [

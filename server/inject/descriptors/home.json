@@ -1,0 +1,10 @@
+{
+  "type": "object",
+  "properties": {
+    "ishome": {
+      "type": "identifier",
+      "selector": ".SessionHistoryPanel"
+    }
+  },
+  "connect": []
+}
