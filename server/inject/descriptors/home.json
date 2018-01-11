@@ -3,8 +3,7 @@
   "properties": {
     "ishome": {
       "type": "identifier",
-      "control": "exists",
-      "selector": ".TreeItem Folder"
+      "control": "exists"
     },
     "expandoptions": {
       "type": "action",
