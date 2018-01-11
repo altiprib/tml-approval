@@ -8,7 +8,8 @@
     },
     "isHome": {
       "type": "string",
-      "selector": "#node-msycom00000000-label"
+      "selector": "#node-msycom00000000-label",
+      "control": "exists"
     }
   },
   "connect": [],
