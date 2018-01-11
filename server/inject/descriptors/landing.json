@@ -24,8 +24,7 @@
     },
     "isrecentlyused": {
       "type": "identifier",
-      "selector": "#-session-0-session-history-label",
-      "selectContains": "Recenlty Used",
+      "selector": ".HomeTab",
       "control": "exists"
     }
   },
