@@ -5,7 +5,7 @@
       "type": "identifier",
       "control": "exists",
       "frameSelector": ".m-app-frame",
-      "selector": "#node-change_company-label"
+      "selector": ".SideApplicationNavScroll"
     },
     "expandoptions": {
       "type": "action",
