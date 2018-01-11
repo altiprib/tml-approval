@@ -42,5 +42,24 @@
         }
       }
     }
+  },
+  "company": {
+    "type": "object",
+    "properties": {
+      "compaynies": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string"
+            },
+            "desc": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
   }
 }

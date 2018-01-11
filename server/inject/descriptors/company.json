@@ -1,5 +1,25 @@
 {
   "type": "object",
-  "properties": {},
+  "properties": {
+    "compaynies": {
+      "type": "array",
+      "selectorAll": "body",
+      "items": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "string",
+            "selector": "body",
+            "control": "property.innerText"
+          },
+          "desc": {
+            "type": "string",
+            "selector": "body",
+            "control": "property.innerText"
+          }
+        }
+      }
+    }
+  },
   "connect": []
 }
