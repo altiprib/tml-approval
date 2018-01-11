@@ -3,7 +3,7 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "#-session-0-session-history .Tab Selected",
+      "selector": "#-session-0-session-history .Tab",
       "control": "exists"
     }
   },
