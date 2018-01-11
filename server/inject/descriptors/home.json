@@ -2,7 +2,9 @@
   "type": "object",
   "properties": {
     "ishome": {
-      "type": "identifier"
+      "type": "identifier",
+      "frameSelector": ".m-app-frame",
+      "selector": ".m-app-frame"
     },
     "expandoptions": {
       "type": "action",
