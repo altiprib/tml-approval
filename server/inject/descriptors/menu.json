@@ -3,7 +3,7 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "[id='-session-0-session-history-label']",
+      "selector": "[id='-session-0-session-history']",
       "control": "exists"
     }
   },
