@@ -8,8 +8,7 @@
     },
     "expandoptions": {
       "type": "action",
-      "control": "action.link",
-      "selector": ".TreeItem Folder #node-options-label"
+      "control": "action.link"
     }
   },
   "connect": [
