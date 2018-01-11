@@ -3,8 +3,9 @@
   "properties": {
     "ismenu": {
       "type": "identifier",
-      "selector": "#session-history-panel-item-0",
-      "control": "exists"
+      "selector": "#session-0-session-history-label",
+      "control": "exists",
+      "selectContains": "Recently Used"
     }
   },
   "connect": []
