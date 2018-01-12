@@ -15,15 +15,6 @@ angular.module('app').config(function ($stateProvider) {
                 }
             }
         }
-    }).state('app.approvallist', {
-        views: {
-            app: {
-                controller: 'app_approvallist',
-                templateProvider: function (app) {
-                    return app.templateProvider('app.approvallist');
-                }
-            }
-        }
     }).state('app.menu', {
         views: {
             app: {

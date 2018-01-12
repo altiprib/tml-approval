@@ -11,13 +11,6 @@
       "model": "company"
     },
     {
-      "id": "approvallist",
-      "name": "approvallist",
-      "sourceScreenId": "app.listview.listviewconfident",
-      "sourceAppId": "universaltemplates",
-      "model": "approvallist"
-    },
-    {
       "id": "menu",
       "name": "menu",
       "sourceAppId": "_blank",
