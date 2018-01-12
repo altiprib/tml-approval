@@ -11,6 +11,13 @@
       "model": "company"
     },
     {
+      "id": "approvallist",
+      "name": "approvallist",
+      "sourceScreenId": "app.listview.listviewconfident",
+      "sourceAppId": "universaltemplates",
+      "model": "approvallist"
+    },
+    {
       "id": "menu",
       "name": "menu",
       "sourceAppId": "_blank",
@@ -28,13 +35,6 @@
       "sourceScreenId": "app.login.logincool",
       "sourceAppId": "universaltemplates",
       "model": "login"
-    },
-    {
-      "id": "approvallist",
-      "name": "approvallist",
-      "sourceScreenId": "app.listview.listviewconfident",
-      "sourceAppId": "universaltemplates",
-      "model": "approvallist"
     }
   ],
   "sourceAppId": "_blank",
