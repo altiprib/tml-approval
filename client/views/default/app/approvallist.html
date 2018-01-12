@@ -1,0 +1,35 @@
+<ion-view data-comp-id="ionic-view.1">
+    <ion-nav-bar align-title="" class=" bar-positive" data-comp-id="nav-bar.1">
+        <ion-nav-buttons side="left">
+            <button class="button button-icon ion-navicon" data-comp-id="button.1"></button>
+        </ion-nav-buttons>
+        <ion-nav-title data-comp-id="nav-title.1">List View</ion-nav-title>
+        <ion-nav-buttons side="right">
+            <button class="button button-icon ion-home" data-comp-id="button.2"></button>
+        </ion-nav-buttons>
+    </ion-nav-bar>
+    <ion-content class=" stable-bg" data-comp-id="ionic-content.1">
+        <ion-list data-comp-id="ionic-list.1">
+            <div class=" light-bg" data-comp-id="div.1" ng-repeat="item in data.listItems"
+                style="margin: 10px;">
+                <div class="row" data-comp-id="row.1"
+                    ng-click="app.action('tableview', 'data.listItems[item].action', this)"
+                    style="border-bottom: 1px solid rgb(221, 221, 221); margin: 0px; padding: 0px;">
+                    <div class="col col-10 text-center" data-comp-id="column.1"
+                        style="padding: 12px 5px;">
+                        <i class="icon ion-information-circled positive" data-comp-id="icon.1"
+                            style="font-size: 24px;"></i>
+                    </div>
+                    <div class="col" data-comp-id="column.2" style="padding: 10px;">
+                        <div class="" data-comp-id="text.1" ng-bind="item.name"
+                            style="font-size: 20px; line-height: 28px;"></div>
+                        <div class=" dark" data-comp-id="text.2" ng-bind="item.description"
+                            style="font-size: 16px; line-height: 24px;">Some text</div>
+                        <div class=" dark" data-comp-id="text.3" ng-bind="item.date"
+                            style="font-size: 12px;">Some text</div>
+                    </div>
+                </div>
+            </div>
+        </ion-list>
+    </ion-content>
+</ion-view>
