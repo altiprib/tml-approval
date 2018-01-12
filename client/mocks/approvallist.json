@@ -1,28 +1,28 @@
 {
   "listItems": [
     {
-      "name": "List Name One",
-      "description": "Description Text, lorem ipsum dolor sit amet.",
+      "name": "B00000006",
+      "description": "A3G-01",
       "date": "01/04/2017"
     },
     {
-      "name": "Second List Name",
-      "description": "consectetur adipiscing elit, sed do eiusmod tempor",
+      "name": "B00000007",
+      "description": "A3G-01",
       "date": "01/02/2017"
     },
     {
-      "name": "List Name Three",
-      "description": "incididunt ut labore et dolore magna aliqua",
+      "name": "B00000008",
+      "description": "A3G-01",
       "date": "12/18/2016"
     },
     {
-      "name": "Fourth List Name",
-      "description": "Ut enim ad minim veniam, quis nostrud exercitation",
+      "name": "B00000010",
+      "description": "A3G-01",
       "date": "12/05/2016"
     },
     {
-      "name": "List Name Five",
-      "description": "ullamco laboris nisi ut aliquip ex ea commodo consequat",
+      "name": "B00000014",
+      "description": "A0-GI",
       "date": "11/13/2016"
     },
     {
