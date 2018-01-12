@@ -6,5 +6,4 @@ function app_company($scope, app) {
     $scope.open = function(){
         app.go('app.approvallist')
     }
-    
 }
