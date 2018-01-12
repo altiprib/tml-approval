@@ -3,5 +3,8 @@ function app_company($scope, app) {
     'use strict';
     app.init($scope);
     
+    $scope.open = function(){
+        app.go('app.approvallist')
+    }
     
 }
