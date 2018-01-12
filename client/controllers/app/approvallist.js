@@ -3,8 +3,5 @@ function app_approvallist($scope, app) {
     'use strict';
     app.init($scope);
     
-    
-    
 
-    
 }
